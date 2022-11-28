@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Pathmarasa Jathurshan, 3rd year Computer Engineering undergraduate, minoring in Data Management at Department of Computer Engineering,
 University of Sri Jayewardenapura
-- 👀 Interested in data science
+- 👀 Interested in...
 - 🌱 Currently learning machine learning
 - 💞️ Looking to collaborate on machine learning projects...
 - 📫 jathursh11@gmail.com, [LinkedIn Profile](https://www.linkedin.com/in/pathmarasa-jathurshan-10559622a/)
