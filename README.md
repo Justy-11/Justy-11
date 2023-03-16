@@ -9,6 +9,9 @@
 
 [linkedin]: https://www.linkedin.com/in/jathurshan-pathmarasa-10559622a/
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]
+
+[linkedin]: https://www.linkedin.com/in/jathurshan-pathmarasa-10559622a/
 
 
 <!---
