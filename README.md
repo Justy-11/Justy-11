@@ -1,15 +1,11 @@
-<h1 align="center">👋 Hi, I’m Jathurshan Pathmarasa</h1>
+###👋 Hi, I’m Jathurshan Pathmarasa
 
 - ✨ Final year Computer Engineering undergraduate, minoring in Data Management at Department of Computer Engineering,University of Sri Jayewardenepura
 - 💞️ I am interested in mobile, web app development and machine learning
 - 🌱 Currently working as an Software Engineer (Back-End) intern
-- 📫 Reach me jathursh11@gmail.com, [LinkedIn Profile](https://www.linkedin.com/in/pathmarasa-jathurshan-10559622a/)
+- 📫 Reach me: [LinkedIn Profile](https://www.linkedin.com/in/pathmarasa-jathurshan-10559622a/)
 
-[![LinkedIn](https://brand.linkedin.com/dam/jcr:5b6f8683-2545-4bb0-a5f5-5f19b1e53d6e/LinkedIn_Logo_2019.svg)][linkedin]
-
-[linkedin]: https://www.linkedin.com/in/jathurshan-pathmarasa-10559622a/
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]
+[![LinkedIn](https://static-exp1.licdn.com/sc/h/1bt1uwq5a63yvb0zetwijlv8f)][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/jathurshan-pathmarasa-10559622a/
 
