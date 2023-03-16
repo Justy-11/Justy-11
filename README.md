@@ -1,6 +1,6 @@
 ### 👋 Hi, I’m Jathurshan Pathmarasa
 
-- ✨ Final year Computer Engineering undergraduate, minoring in Data Management at Department of Computer Engineering,University of Sri Jayewardenepura
+- ✨ 🎩 Final year Computer Engineering undergraduate, minoring in Data Management at Department of Computer Engineering,University of Sri Jayewardenepura
 - 💞️ I am interested in mobile, web app development and machine learning
 - 🌱 Currently working as an Software Engineer (Back-End) intern
 
