@@ -2,6 +2,8 @@
 <!-- <img src="https://komarev.com/ghpvc/?username=Justy-11&label=Profile%20views&color=0e75b6&style=flat" alt="Justy-11" /> -->
 
 
+
+
 - ✨ 🎩 Final year Computer Engineering undergraduate, minoring in Data Management at Department of Computer Engineering,University of Sri Jayewardenepura
 - 💞️ I am interested in mobile, web app development and machine learning
 - 🌱 Currently working as an Software Engineer (Back-End) intern
