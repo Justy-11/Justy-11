@@ -13,7 +13,7 @@
 </a>
 &nbsp;&nbsp;&nbsp;
 <a href="mailto:jathursh11@gmail.com" target="_blank" rel="noreferrer">
-  <img align="center" src="https://www.gstatic.com/images/icons/material/product/2x/gmail_48dp.png" alt="Gmail" width="20" height="20" />
+  <img align="center" src="https://www.gstatic.com/images/icons/material/product/2x/gmail_48dp.png" alt="Gmail" width="30" height="30" />
 </a>
 </p>
 
