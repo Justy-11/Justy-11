@@ -6,7 +6,7 @@
 - 💞️ Interested in machine learning
 - 🌱 worked as a Software Engineer (Back-End) intern
 
-<h3 align="left">Reach me 📫</h3>
+<h3 align="left">Reach me, Click here !!</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/jathurshan-pathmarasa-10559622a/" target="_blank" rel="noreferrer">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="25" height="25" alt="LinkedIn" />
