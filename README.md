@@ -30,9 +30,10 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Justy-11&show_icons=true&locale=en&layout=compact" alt="Justy-11" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Justy-11&show_icons=true&locale=en" alt="Justy-11" /></p>
+<!--- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Justy-11&show_icons=true&locale=en" alt="Justy-11" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Justy-11&" alt="Justy-11" /></p>
+--->
 
 <!---
 Justy-11/Justy-11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
