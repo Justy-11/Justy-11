@@ -9,7 +9,7 @@
 <h3 align="left">Reach me 📫</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/jathurshan-pathmarasa-10559622a/" target="_blank" rel="noreferrer">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="20" height="20" alt="LinkedIn" />
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="25" height="25" alt="LinkedIn" />
 </a>
 &nbsp;&nbsp;&nbsp;
 <a href="mailto:jathursh11@gmail.com" target="_blank" rel="noreferrer">
