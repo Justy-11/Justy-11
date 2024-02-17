@@ -3,7 +3,7 @@
 
 
 - ✨ 🎩 Final year Computer Engineering undergraduate, minoring in Data Management at Department of Computer Engineering,University of Sri Jayewardenepura
-- 💞️ Interested in machine learning
+- 💞️ ML enthusiast
 - 🌱 worked as a Software Engineer (Back-End) intern
 
 <h3 align="left">Reach me 👇</h3>
