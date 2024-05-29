@@ -13,7 +13,7 @@
 <h3 align="left">Languages and Tools</h3>
 <p align="left"> 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,cpp,spring,fastapi,postman,opencv,mongodb,firebase,mysql,tensorflow,pytorch,git,gcp,linux,androidstudio,figma,matlab"/>
+    <img src="https://skillicons.dev/icons?i=python,java,cpp,spring,fastapi,postman,opencv,mongodb,firebase,mysql,tensorflow,pytorch,git,gcp,linux,androidstudio,figma,matlab&perline=6"/>
   </a>
 </p>
 
