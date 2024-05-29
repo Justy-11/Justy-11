@@ -3,17 +3,17 @@
 <h3 align="left">Reach me 👇</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/jathurshan-pathmarasa-10559622a/" target="_blank" rel="noreferrer">
-  <img src="https://skillicons.dev/icons?i=linkedin"/>
+  <img src="https://skillicons.dev/icons?i=linkedin" width="30" height="30"/>
 </a>
 <a href="mailto:jathursh11@gmail.com" target="_blank" rel="noreferrer">
-  <img src="https://skillicons.dev/icons?i=gmail"/>
+  <img src="https://skillicons.dev/icons?i=gmail" width="30" height="30"/>
 </a>
 </p>
 
 <h3 align="left">Languages and Tools</h3>
 <p align="left"> 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,cpp,spring,fastapi,postman,opencv,mongodb,firebase,mysql,tensorflow,pytorch,git,linux,androidstudio,figma,matlab"/>
+    <img src="https://skillicons.dev/icons?i=python,java,cpp,spring,fastapi,postman,opencv,mongodb,firebase,mysql,tensorflow,pytorch,git,gcp,linux,androidstudio,figma,matlab"/>
   </a>
 </p>
 
