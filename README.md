@@ -10,7 +10,7 @@
 <p align="left">
 </p>-->
 
-<h3 align="left">Languages and Tools</h3>
+#### Languages and Tools
 <p align="left"> 
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,java,cpp,spring,fastapi,postman,opencv,mongodb,firebase,mysql,tensorflow,pytorch,git,gcp,linux,androidstudio,figma,matlab&perline=9"/>
