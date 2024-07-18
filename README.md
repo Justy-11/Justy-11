@@ -17,7 +17,7 @@
   </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Justy-11&show_icons=true&locale=en&layout=compact&show_icons=true&theme=dark" alt="Justy-11" /></p>
+<!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Justy-11&show_icons=true&locale=en&layout=compact&show_icons=true&theme=dark" alt="Justy-11" /></p>-->
 
 <!--- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Justy-11&show_icons=true&locale=en" alt="Justy-11" /></p>
 
