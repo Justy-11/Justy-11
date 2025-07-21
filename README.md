@@ -1,4 +1,4 @@
-/<!--#### 👋 Hi, I’m Jathurshan Pathmarasa 
+<!--#### 👋 Hi, I’m Jathurshan Pathmarasa 
 <a href="https://www.linkedin.com/in/jathurshan-pathmarasa-10559622a/" target="_blank" rel="noreferrer">
   <img src="https://skillicons.dev/icons?i=linkedin" width="30" height="30"/>
 </a>
